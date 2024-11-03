@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\bin\Debug\net8.0\Modulo15-predicate.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\bin\Debug\net8.0\Modulo15-predicate.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\bin\Debug\net8.0\Modulo15-predicate.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\bin\Debug\net8.0\Modulo15-predicate.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\bin\Debug\net8.0\Modulo15-predicate.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\Modulo15-predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\Modulo15-predicate.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\Modulo15-predicate.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\Modulo15-predicate.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\Modulo15-predicate.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\refint\Modulo15-predicate.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\Modulo15-predicate.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\Modulo15-predicate.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-predicate\Modulo15-predicate\obj\Debug\net8.0\ref\Modulo15-predicate.dll

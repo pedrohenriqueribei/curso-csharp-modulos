@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\bin\Debug\net8.0\Modulo12-Interfaces.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\bin\Debug\net8.0\Modulo12-Interfaces.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\bin\Debug\net8.0\Modulo12-Interfaces.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\bin\Debug\net8.0\Modulo12-Interfaces.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\bin\Debug\net8.0\Modulo12-Interfaces.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\Modulo12-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\Modulo12-Interfaces.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\Modulo12-Interfaces.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\Modulo12-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\Modulo12-Interfaces.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\refint\Modulo12-Interfaces.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\Modulo12-Interfaces.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\Modulo12-Interfaces.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Interfaces\Modulo12-Interfaces\obj\Debug\net8.0\ref\Modulo12-Interfaces.dll

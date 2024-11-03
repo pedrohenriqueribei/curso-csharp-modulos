@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo15-predicate", "Modulo15-predicate\Modulo15-predicate.csproj", "{E2FEBC4F-4A91-4A9B-B6E6-E95349C58188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2FEBC4F-4A91-4A9B-B6E6-E95349C58188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FEBC4F-4A91-4A9B-B6E6-E95349C58188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FEBC4F-4A91-4A9B-B6E6-E95349C58188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FEBC4F-4A91-4A9B-B6E6-E95349C58188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF7343F-4353-45F4-836C-5985850620AE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\Mod11-Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\Mod11-Directory.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\Mod11-Directory.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\Mod11-Directory.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\bin\Debug\net8.0\Mod11-Directory.exe
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\bin\Debug\net8.0\Mod11-Directory.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\bin\Debug\net8.0\Mod11-Directory.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\bin\Debug\net8.0\Mod11-Directory.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\bin\Debug\net8.0\Mod11-Directory.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\Mod11-Directory.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\refint\Mod11-Directory.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\Mod11-Directory.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\Mod11-Directory.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-Directory\Mod11-Directory\obj\Debug\net8.0\ref\Mod11-Directory.dll

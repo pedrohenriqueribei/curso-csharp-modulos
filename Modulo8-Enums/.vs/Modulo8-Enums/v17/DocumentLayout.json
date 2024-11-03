@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo8-Enums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618D1CED-919F-4D4E-B0DF-545AB823A1FE}|Modulo8-Enums\\Modulo8-Enums.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulo8-enums\\modulo8-enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D1CED-919F-4D4E-B0DF-545AB823A1FE}|Modulo8-Enums\\Modulo8-Enums.csproj|solutionrelative:modulo8-enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D1CED-919F-4D4E-B0DF-545AB823A1FE}|Modulo8-Enums\\Modulo8-Enums.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulo8-enums\\modulo8-enums\\entidades\\ordemdeservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D1CED-919F-4D4E-B0DF-545AB823A1FE}|Modulo8-Enums\\Modulo8-Enums.csproj|solutionrelative:modulo8-enums\\entidades\\ordemdeservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D1CED-919F-4D4E-B0DF-545AB823A1FE}|Modulo8-Enums\\Modulo8-Enums.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulo8-enums\\modulo8-enums\\entidades\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D1CED-919F-4D4E-B0DF-545AB823A1FE}|Modulo8-Enums\\Modulo8-Enums.csproj|solutionrelative:modulo8-enums\\entidades\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo8-Enums\\Modulo8-Enums\\Entidades\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "Modulo8-Enums\\Entidades\\Enums\\StatusEnum.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo8-Enums\\Modulo8-Enums\\Entidades\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "Modulo8-Enums\\Entidades\\Enums\\StatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:47:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdemDeServico.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo8-Enums\\Modulo8-Enums\\Entidades\\OrdemDeServico.cs",
+              "RelativeDocumentMoniker": "Modulo8-Enums\\Entidades\\OrdemDeServico.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo8-Enums\\Modulo8-Enums\\Entidades\\OrdemDeServico.cs",
+              "RelativeToolTip": "Modulo8-Enums\\Entidades\\OrdemDeServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:45:21.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo8-Enums\\Modulo8-Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo8-Enums\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo8-Enums\\Modulo8-Enums\\Program.cs",
+              "RelativeToolTip": "Modulo8-Enums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:44:31.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\bin\Debug\net8.0\Modulo5-Matriz.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\bin\Debug\net8.0\Modulo5-Matriz.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\bin\Debug\net8.0\Modulo5-Matriz.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\bin\Debug\net8.0\Modulo5-Matriz.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\bin\Debug\net8.0\Modulo5-Matriz.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\Modulo5-Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\Modulo5-Matriz.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\Modulo5-Matriz.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\Modulo5-Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\Modulo5-Matriz.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\refint\Modulo5-Matriz.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\Modulo5-Matriz.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\Modulo5-Matriz.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-Matriz\Modulo5-Matriz\obj\Debug\net8.0\ref\Modulo5-Matriz.dll

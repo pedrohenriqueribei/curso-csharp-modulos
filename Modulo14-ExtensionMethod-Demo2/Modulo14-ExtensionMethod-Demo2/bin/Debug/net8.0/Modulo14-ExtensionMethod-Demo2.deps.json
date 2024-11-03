@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modulo14-ExtensionMethod-Demo2/1.0.0": {
+        "runtime": {
+          "Modulo14-ExtensionMethod-Demo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modulo14-ExtensionMethod-Demo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

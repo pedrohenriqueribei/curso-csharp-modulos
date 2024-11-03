@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\bin\Debug\net8.0\Modulo7-timespan.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\bin\Debug\net8.0\Modulo7-timespan.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\bin\Debug\net8.0\Modulo7-timespan.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\bin\Debug\net8.0\Modulo7-timespan.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\bin\Debug\net8.0\Modulo7-timespan.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\Modulo7-timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\Modulo7-timespan.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\Modulo7-timespan.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\Modulo7-timespan.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\Modulo7-timespan.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\refint\Modulo7-timespan.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\Modulo7-timespan.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\Modulo7-timespan.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo7-timespan\Modulo7-timespan\obj\Debug\net8.0\ref\Modulo7-timespan.dll

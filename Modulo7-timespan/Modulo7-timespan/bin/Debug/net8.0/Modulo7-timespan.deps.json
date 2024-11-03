@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modulo7-timespan/1.0.0": {
+        "runtime": {
+          "Modulo7-timespan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modulo7-timespan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

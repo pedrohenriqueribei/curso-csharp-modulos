@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\bin\Debug\net8.0\Modulo13-hashset-exercicio.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\bin\Debug\net8.0\Modulo13-hashset-exercicio.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\bin\Debug\net8.0\Modulo13-hashset-exercicio.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\bin\Debug\net8.0\Modulo13-hashset-exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\bin\Debug\net8.0\Modulo13-hashset-exercicio.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\Modulo13-hashset-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\Modulo13-hashset-exercicio.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\Modulo13-hashset-exercicio.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\Modulo13-hashset-exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\Modulo13-hashset-exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\refint\Modulo13-hashset-exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\Modulo13-hashset-exercicio.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\Modulo13-hashset-exercicio.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-hashset-exercicio\Modulo13-hashset-exercicio\obj\Debug\net8.0\ref\Modulo13-hashset-exercicio.dll

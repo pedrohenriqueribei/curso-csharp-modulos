@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\source\\repos\\Modulo6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{312EE546-F6BB-447F-97F9-AD799E690A1C}|Modulo6\\Modulo6.csproj|c:\\users\\pedro\\source\\repos\\modulo6\\modulo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312EE546-F6BB-447F-97F9-AD799E690A1C}|Modulo6\\Modulo6.csproj|solutionrelative:modulo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312EE546-F6BB-447F-97F9-AD799E690A1C}|Modulo6\\Modulo6.csproj|c:\\users\\pedro\\source\\repos\\modulo6\\modulo6\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312EE546-F6BB-447F-97F9-AD799E690A1C}|Modulo6\\Modulo6.csproj|solutionrelative:modulo6\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312EE546-F6BB-447F-97F9-AD799E690A1C}|Modulo6\\Modulo6.csproj|c:\\users\\pedro\\source\\repos\\modulo6\\modulo6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312EE546-F6BB-447F-97F9-AD799E690A1C}|Modulo6\\Modulo6.csproj|solutionrelative:modulo6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Modulo6\\Modulo6\\Produto.cs",
+              "RelativeDocumentMoniker": "Modulo6\\Produto.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Modulo6\\Modulo6\\Produto.cs",
+              "RelativeToolTip": "Modulo6\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:27:38.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Modulo6\\Modulo6\\Point.cs",
+              "RelativeDocumentMoniker": "Modulo6\\Point.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Modulo6\\Modulo6\\Point.cs",
+              "RelativeToolTip": "Modulo6\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:59:17.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Modulo6\\Modulo6\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo6\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Modulo6\\Modulo6\\Program.cs",
+              "RelativeToolTip": "Modulo6\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:24:52.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

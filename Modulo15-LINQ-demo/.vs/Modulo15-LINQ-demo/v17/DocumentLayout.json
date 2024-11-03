@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo15-LINQ-demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FED51E-346C-4AD5-846C-A868F668935F}|Modulo15-LINQ-demo\\Modulo15-LINQ-demo.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulo15-linq-demo\\modulo15-linq-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FED51E-346C-4AD5-846C-A868F668935F}|Modulo15-LINQ-demo\\Modulo15-LINQ-demo.csproj|solutionrelative:modulo15-linq-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FED51E-346C-4AD5-846C-A868F668935F}|Modulo15-LINQ-demo\\Modulo15-LINQ-demo.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulo15-linq-demo\\modulo15-linq-demo\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FED51E-346C-4AD5-846C-A868F668935F}|Modulo15-LINQ-demo\\Modulo15-LINQ-demo.csproj|solutionrelative:modulo15-linq-demo\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FED51E-346C-4AD5-846C-A868F668935F}|Modulo15-LINQ-demo\\Modulo15-LINQ-demo.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulo15-linq-demo\\modulo15-linq-demo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FED51E-346C-4AD5-846C-A868F668935F}|Modulo15-LINQ-demo\\Modulo15-LINQ-demo.csproj|solutionrelative:modulo15-linq-demo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo15-LINQ-demo\\Modulo15-LINQ-demo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Modulo15-LINQ-demo\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo15-LINQ-demo\\Modulo15-LINQ-demo\\Entities\\Product.cs",
+              "RelativeToolTip": "Modulo15-LINQ-demo\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:36:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo15-LINQ-demo\\Modulo15-LINQ-demo\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Modulo15-LINQ-demo\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo15-LINQ-demo\\Modulo15-LINQ-demo\\Entities\\Category.cs",
+              "RelativeToolTip": "Modulo15-LINQ-demo\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:34:59.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo15-LINQ-demo\\Modulo15-LINQ-demo\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo15-LINQ-demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo15-LINQ-demo\\Modulo15-LINQ-demo\\Program.cs",
+              "RelativeToolTip": "Modulo15-LINQ-demo\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:34:38.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

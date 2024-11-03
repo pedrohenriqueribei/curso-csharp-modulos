@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\bin\Debug\net8.0\Modulo5-List.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\bin\Debug\net8.0\Modulo5-List.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\bin\Debug\net8.0\Modulo5-List.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\bin\Debug\net8.0\Modulo5-List.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\bin\Debug\net8.0\Modulo5-List.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\Modulo5-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\Modulo5-List.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\Modulo5-List.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\Modulo5-List.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\Modulo5-List.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\refint\Modulo5-List.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\Modulo5-List.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\Modulo5-List.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-List\Modulo5-List\obj\Debug\net8.0\ref\Modulo5-List.dll

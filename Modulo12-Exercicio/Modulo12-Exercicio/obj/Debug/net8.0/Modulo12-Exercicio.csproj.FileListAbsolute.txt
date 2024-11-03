@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\bin\Debug\net8.0\Modulo12-Exercicio.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\bin\Debug\net8.0\Modulo12-Exercicio.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\bin\Debug\net8.0\Modulo12-Exercicio.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\bin\Debug\net8.0\Modulo12-Exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\bin\Debug\net8.0\Modulo12-Exercicio.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\Modulo12-Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\Modulo12-Exercicio.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\Modulo12-Exercicio.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\Modulo12-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\Modulo12-Exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\refint\Modulo12-Exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\Modulo12-Exercicio.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\Modulo12-Exercicio.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo12-Exercicio\Modulo12-Exercicio\obj\Debug\net8.0\ref\Modulo12-Exercicio.dll

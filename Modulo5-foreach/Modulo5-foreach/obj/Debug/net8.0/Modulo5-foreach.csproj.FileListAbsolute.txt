@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\bin\Debug\net8.0\Modulo5-foreach.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\bin\Debug\net8.0\Modulo5-foreach.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\bin\Debug\net8.0\Modulo5-foreach.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\bin\Debug\net8.0\Modulo5-foreach.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\bin\Debug\net8.0\Modulo5-foreach.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\Modulo5-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\Modulo5-foreach.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\Modulo5-foreach.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\Modulo5-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\Modulo5-foreach.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\refint\Modulo5-foreach.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\Modulo5-foreach.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\Modulo5-foreach.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo5-foreach\Modulo5-foreach\obj\Debug\net8.0\ref\Modulo5-foreach.dll

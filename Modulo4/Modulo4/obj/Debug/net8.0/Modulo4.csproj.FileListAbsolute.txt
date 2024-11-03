@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\bin\Debug\net8.0\Modulo4.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\bin\Debug\net8.0\Modulo4.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\bin\Debug\net8.0\Modulo4.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\bin\Debug\net8.0\Modulo4.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\bin\Debug\net8.0\Modulo4.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\Modulo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\Modulo4.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\Modulo4.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\Modulo4.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\Modulo4.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\refint\Modulo4.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\Modulo4.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\Modulo4.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo4\Modulo4\obj\Debug\net8.0\ref\Modulo4.dll

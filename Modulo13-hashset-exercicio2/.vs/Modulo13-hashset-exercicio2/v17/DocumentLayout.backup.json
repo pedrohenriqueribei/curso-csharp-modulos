@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo13-hashset-exercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3874B0-318D-4FEA-A9DB-778D3324B75C}|Modulo13-hashset-exercicio2\\Modulo13-hashset-exercicio2.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulo13-hashset-exercicio2\\modulo13-hashset-exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3874B0-318D-4FEA-A9DB-778D3324B75C}|Modulo13-hashset-exercicio2\\Modulo13-hashset-exercicio2.csproj|solutionrelative:modulo13-hashset-exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3874B0-318D-4FEA-A9DB-778D3324B75C}|Modulo13-hashset-exercicio2\\Modulo13-hashset-exercicio2.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulo13-hashset-exercicio2\\modulo13-hashset-exercicio2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3874B0-318D-4FEA-A9DB-778D3324B75C}|Modulo13-hashset-exercicio2\\Modulo13-hashset-exercicio2.csproj|solutionrelative:modulo13-hashset-exercicio2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo13-hashset-exercicio2\\Modulo13-hashset-exercicio2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Modulo13-hashset-exercicio2\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo13-hashset-exercicio2\\Modulo13-hashset-exercicio2\\Entities\\Student.cs",
+              "RelativeToolTip": "Modulo13-hashset-exercicio2\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:02:51.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo13-hashset-exercicio2\\Modulo13-hashset-exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo13-hashset-exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\Modulo13-hashset-exercicio2\\Modulo13-hashset-exercicio2\\Program.cs",
+              "RelativeToolTip": "Modulo13-hashset-exercicio2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:01:07.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

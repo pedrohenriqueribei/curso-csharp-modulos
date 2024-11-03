@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\bin\Debug\net8.0\Modulo13-Dictionary-exercicio1.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\bin\Debug\net8.0\Modulo13-Dictionary-exercicio1.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\bin\Debug\net8.0\Modulo13-Dictionary-exercicio1.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\bin\Debug\net8.0\Modulo13-Dictionary-exercicio1.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\bin\Debug\net8.0\Modulo13-Dictionary-exercicio1.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\Modulo13-Dictionary-exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\Modulo13-Dictionary-exercicio1.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\Modulo13-Dictionary-exercicio1.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\Modulo13-Dictionary-exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\Modulo13-Dictionary-exercicio1.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\refint\Modulo13-Dictionary-exercicio1.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\Modulo13-Dictionary-exercicio1.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\Modulo13-Dictionary-exercicio1.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Dictionary-exercicio1\Modulo13-Dictionary-exercicio1\obj\Debug\net8.0\ref\Modulo13-Dictionary-exercicio1.dll

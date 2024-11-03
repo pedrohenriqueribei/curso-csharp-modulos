@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\Modulo14-ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\Modulo14-ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\Modulo14-ExtensionMethod.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\Modulo14-ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\bin\Debug\net8.0\Modulo14-ExtensionMethod.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\bin\Debug\net8.0\Modulo14-ExtensionMethod.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\bin\Debug\net8.0\Modulo14-ExtensionMethod.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\bin\Debug\net8.0\Modulo14-ExtensionMethod.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\bin\Debug\net8.0\Modulo14-ExtensionMethod.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\Modulo14-ExtensionMethod.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\refint\Modulo14-ExtensionMethod.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\Modulo14-ExtensionMethod.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\Modulo14-ExtensionMethod.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo14-ExtensionMethod\Modulo14-ExtensionMethod\obj\Debug\net8.0\ref\Modulo14-ExtensionMethod.dll

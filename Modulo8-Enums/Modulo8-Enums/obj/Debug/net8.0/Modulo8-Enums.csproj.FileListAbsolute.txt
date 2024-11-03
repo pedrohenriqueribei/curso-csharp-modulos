@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\bin\Debug\net8.0\Modulo8-Enums.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\bin\Debug\net8.0\Modulo8-Enums.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\bin\Debug\net8.0\Modulo8-Enums.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\bin\Debug\net8.0\Modulo8-Enums.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\bin\Debug\net8.0\Modulo8-Enums.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\Modulo8-Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\Modulo8-Enums.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\Modulo8-Enums.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\Modulo8-Enums.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\Modulo8-Enums.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\refint\Modulo8-Enums.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\Modulo8-Enums.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\Modulo8-Enums.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8-Enums\Modulo8-Enums\obj\Debug\net8.0\ref\Modulo8-Enums.dll

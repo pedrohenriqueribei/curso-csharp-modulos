@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\bin\Debug\net8.0\Mod11-File-Using.exe
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\bin\Debug\net8.0\Mod11-File-Using.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\bin\Debug\net8.0\Mod11-File-Using.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\bin\Debug\net8.0\Mod11-File-Using.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\bin\Debug\net8.0\Mod11-File-Using.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\Mod11-File-Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\Mod11-File-Using.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\Mod11-File-Using.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\Mod11-File-Using.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\Mod11-File-Using.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\refint\Mod11-File-Using.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\Mod11-File-Using.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\Mod11-File-Using.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-File-Using\Mod11-File-Using\obj\Debug\net8.0\ref\Mod11-File-Using.dll

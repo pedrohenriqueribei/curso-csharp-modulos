@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\bin\Debug\net8.0\ModuloGenerics.exe
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\bin\Debug\net8.0\ModuloGenerics.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\bin\Debug\net8.0\ModuloGenerics.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\bin\Debug\net8.0\ModuloGenerics.dll
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\bin\Debug\net8.0\ModuloGenerics.pdb
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\ModuloGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\ModuloGenerics.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\ModuloGenerics.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\ModuloGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\ModuloGenerics.dll
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\refint\ModuloGenerics.dll
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\ModuloGenerics.pdb
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\ModuloGenerics.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\ModuloGenerics\ModuloGenerics\obj\Debug\net8.0\ref\ModuloGenerics.dll

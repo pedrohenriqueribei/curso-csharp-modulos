@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\bin\Debug\net8.0\Modulo15-LINQ.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\bin\Debug\net8.0\Modulo15-LINQ.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\bin\Debug\net8.0\Modulo15-LINQ.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\bin\Debug\net8.0\Modulo15-LINQ.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\bin\Debug\net8.0\Modulo15-LINQ.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\Modulo15-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\Modulo15-LINQ.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\Modulo15-LINQ.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\Modulo15-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\Modulo15-LINQ.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\refint\Modulo15-LINQ.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\Modulo15-LINQ.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\Modulo15-LINQ.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-LINQ\Modulo15-LINQ\obj\Debug\net8.0\ref\Modulo15-LINQ.dll

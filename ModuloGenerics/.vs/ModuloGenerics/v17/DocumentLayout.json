@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\ModuloGenerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B396FA2D-144A-4457-BF52-E42ECDC429B5}|ModuloGenerics\\ModuloGenerics.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulogenerics\\modulogenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B396FA2D-144A-4457-BF52-E42ECDC429B5}|ModuloGenerics\\ModuloGenerics.csproj|solutionrelative:modulogenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B396FA2D-144A-4457-BF52-E42ECDC429B5}|ModuloGenerics\\ModuloGenerics.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulogenerics\\modulogenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B396FA2D-144A-4457-BF52-E42ECDC429B5}|ModuloGenerics\\ModuloGenerics.csproj|solutionrelative:modulogenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B396FA2D-144A-4457-BF52-E42ECDC429B5}|ModuloGenerics\\ModuloGenerics.csproj|c:\\users\\pedro\\desktop\\projetos c#\\modulogenerics\\modulogenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B396FA2D-144A-4457-BF52-E42ECDC429B5}|ModuloGenerics\\ModuloGenerics.csproj|solutionrelative:modulogenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\ModuloGenerics\\ModuloGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "ModuloGenerics\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\ModuloGenerics\\ModuloGenerics\\Program.cs",
+              "RelativeToolTip": "ModuloGenerics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:30:33.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\ModuloGenerics\\ModuloGenerics\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "ModuloGenerics\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\ModuloGenerics\\ModuloGenerics\\Services\\CalculationService.cs",
+              "RelativeToolTip": "ModuloGenerics\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:10:54.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\ModuloGenerics\\ModuloGenerics\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ModuloGenerics\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Projetos C#\\ModuloGenerics\\ModuloGenerics\\Entities\\Product.cs",
+              "RelativeToolTip": "ModuloGenerics\\Entities\\Product.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:09:32.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

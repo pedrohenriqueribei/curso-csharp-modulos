@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\bin\Debug\net8.0\Modulo8_Enum_Exercicio.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\bin\Debug\net8.0\Modulo8_Enum_Exercicio.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\bin\Debug\net8.0\Modulo8_Enum_Exercicio.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\bin\Debug\net8.0\Modulo8_Enum_Exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\bin\Debug\net8.0\Modulo8_Enum_Exercicio.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\Modulo8_Enum_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\Modulo8_Enum_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\Modulo8_Enum_Exercicio.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\Modulo8_Enum_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\Modulo8_Enum_Exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\refint\Modulo8_Enum_Exercicio.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\Modulo8_Enum_Exercicio.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\Modulo8_Enum_Exercicio.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo8_Enum_Exercicio\Modulo8_Enum_Exercicio\obj\Debug\net8.0\ref\Modulo8_Enum_Exercicio.dll

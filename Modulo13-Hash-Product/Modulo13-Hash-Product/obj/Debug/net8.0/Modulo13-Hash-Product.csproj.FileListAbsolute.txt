@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\bin\Debug\net8.0\Modulo13-Hash-Product.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\bin\Debug\net8.0\Modulo13-Hash-Product.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\bin\Debug\net8.0\Modulo13-Hash-Product.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\bin\Debug\net8.0\Modulo13-Hash-Product.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\bin\Debug\net8.0\Modulo13-Hash-Product.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\Modulo13-Hash-Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\Modulo13-Hash-Product.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\Modulo13-Hash-Product.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\Modulo13-Hash-Product.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\Modulo13-Hash-Product.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\refint\Modulo13-Hash-Product.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\Modulo13-Hash-Product.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\Modulo13-Hash-Product.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-Hash-Product\Modulo13-Hash-Product\obj\Debug\net8.0\ref\Modulo13-Hash-Product.dll

@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\bin\Debug\net8.0\Mod10-Exception-Exerc.exe
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\bin\Debug\net8.0\Mod10-Exception-Exerc.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\bin\Debug\net8.0\Mod10-Exception-Exerc.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\bin\Debug\net8.0\Mod10-Exception-Exerc.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\bin\Debug\net8.0\Mod10-Exception-Exerc.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\Mod10-Exception-Exerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\Mod10-Exception-Exerc.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\Mod10-Exception-Exerc.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\Mod10-Exception-Exerc.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\Mod10-Exception-Exerc.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\refint\Mod10-Exception-Exerc.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\Mod10-Exception-Exerc.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\Mod10-Exception-Exerc.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exception-Exerc\Mod10-Exception-Exerc\obj\Debug\net8.0\ref\Mod10-Exception-Exerc.dll

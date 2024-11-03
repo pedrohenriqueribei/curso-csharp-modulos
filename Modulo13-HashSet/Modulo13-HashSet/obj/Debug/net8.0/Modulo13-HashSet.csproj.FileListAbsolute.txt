@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\bin\Debug\net8.0\Modulo13-HashSet.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\bin\Debug\net8.0\Modulo13-HashSet.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\bin\Debug\net8.0\Modulo13-HashSet.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\bin\Debug\net8.0\Modulo13-HashSet.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\bin\Debug\net8.0\Modulo13-HashSet.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\Modulo13-HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\Modulo13-HashSet.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\Modulo13-HashSet.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\Modulo13-HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\Modulo13-HashSet.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\refint\Modulo13-HashSet.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\Modulo13-HashSet.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\Modulo13-HashSet.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo13-HashSet\Modulo13-HashSet\obj\Debug\net8.0\ref\Modulo13-HashSet.dll

@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\bin\Debug\net8.0\Modulo6.exe
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\bin\Debug\net8.0\Modulo6.deps.json
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\bin\Debug\net8.0\Modulo6.runtimeconfig.json
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\bin\Debug\net8.0\Modulo6.dll
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\bin\Debug\net8.0\Modulo6.pdb
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\Modulo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\Modulo6.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\Modulo6.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\Modulo6.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\Modulo6.dll
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\refint\Modulo6.dll
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\Modulo6.pdb
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\Modulo6.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Modulo6\Modulo6\obj\Debug\net8.0\ref\Modulo6.dll

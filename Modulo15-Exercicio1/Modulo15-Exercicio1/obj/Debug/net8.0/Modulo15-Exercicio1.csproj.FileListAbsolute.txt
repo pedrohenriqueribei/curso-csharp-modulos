@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\bin\Debug\net8.0\Modulo15-Exercicio1.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\bin\Debug\net8.0\Modulo15-Exercicio1.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\bin\Debug\net8.0\Modulo15-Exercicio1.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\bin\Debug\net8.0\Modulo15-Exercicio1.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\bin\Debug\net8.0\Modulo15-Exercicio1.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\Modulo15-Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\Modulo15-Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\Modulo15-Exercicio1.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\Modulo15-Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\Modulo15-Exercicio1.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\refint\Modulo15-Exercicio1.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\Modulo15-Exercicio1.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\Modulo15-Exercicio1.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-Exercicio1\Modulo15-Exercicio1\obj\Debug\net8.0\ref\Modulo15-Exercicio1.dll

@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\bin\Debug\net8.0\Mod10-Exceptions.exe
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\bin\Debug\net8.0\Mod10-Exceptions.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\bin\Debug\net8.0\Mod10-Exceptions.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\bin\Debug\net8.0\Mod10-Exceptions.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\bin\Debug\net8.0\Mod10-Exceptions.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\Mod10-Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\Mod10-Exceptions.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\Mod10-Exceptions.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\Mod10-Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\Mod10-Exceptions.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\refint\Mod10-Exceptions.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\Mod10-Exceptions.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\Mod10-Exceptions.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod10-Exceptions\Mod10-Exceptions\obj\Debug\net8.0\ref\Mod10-Exceptions.dll

@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\bin\Debug\net8.0\Mod11-StreamWriter.exe
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\bin\Debug\net8.0\Mod11-StreamWriter.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\bin\Debug\net8.0\Mod11-StreamWriter.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\bin\Debug\net8.0\Mod11-StreamWriter.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\bin\Debug\net8.0\Mod11-StreamWriter.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\Mod11-StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\Mod11-StreamWriter.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\Mod11-StreamWriter.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\Mod11-StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\Mod11-StreamWriter.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\refint\Mod11-StreamWriter.dll
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\Mod11-StreamWriter.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\Mod11-StreamWriter.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Mod11-StreamWriter\Mod11-StreamWriter\obj\Debug\net8.0\ref\Mod11-StreamWriter.dll

@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\bin\Debug\net8.0\Modulo15-act.exe
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\bin\Debug\net8.0\Modulo15-act.deps.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\bin\Debug\net8.0\Modulo15-act.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\bin\Debug\net8.0\Modulo15-act.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\bin\Debug\net8.0\Modulo15-act.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\Modulo15-act.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\Modulo15-act.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\Modulo15-act.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\Modulo15-act.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\Modulo15-act.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\refint\Modulo15-act.dll
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\Modulo15-act.pdb
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\Modulo15-act.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projetos C#\Modulo15-act\Modulo15-act\obj\Debug\net8.0\ref\Modulo15-act.dll
